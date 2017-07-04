@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>F:\ULAB\Semester 6\CSE\RMS\dist\RMS.jar</jar>
+  <outfile>F:\ULAB\Semester 6\CSE\RMS\EXE\RMS.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>r_ms.rms</mainClass>
+    <cp>lib/commons-codec-1.10.jar</cp>
+    <cp>lib/commons-logging-1.2.jar</cp>
+    <cp>lib/curvesapi-1.03.jar</cp>
+    <cp>lib/junit-4.12.jar</cp>
+    <cp>lib/log4j-1.2.17.jar</cp>
+    <cp>lib/poi-3.14-20160307.jar</cp>
+    <cp>lib/poi-examples-3.14-20160307.jar</cp>
+    <cp>lib/poi-excelant-3.14-20160307.jar</cp>
+    <cp>lib/poi-ooxml-3.14-20160307.jar</cp>
+    <cp>lib/poi-ooxml-schemas-3.14-20160307.jar</cp>
+    <cp>lib/poi-scratchpad-3.14-20160307.jar</cp>
+    <cp>lib/xmlbeans-2.6.0.jar</cp>
+    <cp>lib/derbyclient.jar</cp>
+    <cp>lib/rs2xml.jar</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.0.1</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>

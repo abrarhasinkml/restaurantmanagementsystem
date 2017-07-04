@@ -1,0 +1,37 @@
+
+
+Version:	3.9
+CmdLine:	F:\ULAB\Semester 6\CSE\RMS\EXE\RMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	F:\ULAB\Semester 6\CSE\RMS\EXE\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_079
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_79
+Ignore:		1.7.0_079
+Runtime used:	1.7.0_079 (64-bit)
+Add classpath:	lib\commons-codec-1.10.jar
+Add classpath:	lib\commons-logging-1.2.jar
+Add classpath:	lib\curvesapi-1.03.jar
+Add classpath:	lib\junit-4.12.jar
+Add classpath:	lib\log4j-1.2.17.jar
+Add classpath:	lib\poi-3.14-20160307.jar
+Add classpath:	lib\poi-examples-3.14-20160307.jar
+Add classpath:	lib\poi-excelant-3.14-20160307.jar
+Add classpath:	lib\poi-ooxml-3.14-20160307.jar
+Add classpath:	lib\poi-ooxml-schemas-3.14-20160307.jar
+Add classpath:	lib\poi-scratchpad-3.14-20160307.jar
+Add classpath:	lib\xmlbeans-2.6.0.jar
+Add classpath:	lib\derbyclient.jar
+Add classpath:	lib\rs2xml.jar
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "F:\ULAB\Semester 6\CSE\RMS\EXE\RMS.exe;lib\commons-codec-1.10.jar;lib\commons-logging-1.2.jar;lib\curvesapi-1.03.jar;lib\junit-4.12.jar;lib\log4j-1.2.17.jar;lib\poi-3.14-20160307.jar;lib\poi-examples-3.14-20160307.jar;lib\poi-excelant-3.14-20160307.jar;lib\poi-ooxml-3.14-20160307.jar;lib\poi-ooxml-schemas-3.14-20160307.jar;lib\poi-scratchpad-3.14-20160307.jar;lib\xmlbeans-2.6.0.jar;lib\derbyclient.jar;lib\rs2xml.jar" r_ms.rms
+Args length:	441/32768 chars
+Exit code:	0
